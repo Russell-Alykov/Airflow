@@ -1,2 +1,2 @@
 # Airflow
-Airflow DAG's and
+Airflow DAG's. Video games dataset simple analysis.
